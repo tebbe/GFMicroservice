@@ -1,0 +1,12 @@
+
+
+GroundFloor/bin
+GroundFloor/obj
+GroundFloor.Tests/bin
+GroundFloor.Tests/obj
+DatabaseLayer/bin
+DatabaseLayer/obj
+Model/bin
+Model/obj
+.vs
+/GroundFloor/Upload/Attachment/cc3fdca374904ae89e3393779805efaf/User_System
